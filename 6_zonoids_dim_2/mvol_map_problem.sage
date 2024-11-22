@@ -2,6 +2,9 @@ from math import prod
 
 
 def property_memoize(func):
+    """
+    Decorator to cache values
+    """
     cache = {}
 
     def get(self):

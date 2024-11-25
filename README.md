@@ -23,7 +23,7 @@ coming soon...
 
 ## Structure
 
-In addition to the notebooks mentioned above, this project includes [mvol_map_problem.sage](./6_zonoids_dim_2/mvol_map_problem.sage). This file contains the `MVolMapProblem` class, which handles the parameters for the problem (number of bodies, number of dimensions, etc.) and provides cached (memoized) functions that generate important SageMath objects (like the convex hull of the image of $\Phi$). However, note that this class is unlikely to work for other dimensions.
+In addition to the notebooks mentioned above, this project includes [mvol_map_problem.sage](./6_zonoids_dim_2/mvol_map_problem.sage). This file contains the `MVolMapProblem` class, which handles the parameters for the problem (number of bodies, number of dimensions, etc.) and provides cached (memoized) functions that generate important SageMath objects (like the polyhedron cone $C_{n,d}$ which is the conic hull of the image of $\Phi$). However, note that this class is unlikely to work for other dimensions.
 
 
 ## Contributing

@@ -33,7 +33,7 @@ Pull requests are welcome!
 This code has been released under the [MIT License](./LICENSE).
 
 ## Contact
-If you have questions are comments feel free to email Dr. Ivan Soprunov (i.soprunov@csuohio.edu). For more code-specific questions consider reaching out to Simon Richard (j.s.richard@vikes.csuohio.edu) or Gennadiy Averkov (averkov@b-tu.de).
+If you have questions or comments feel free to email Ivan Soprunov (i.soprunov@csuohio.edu). For more code-specific questions consider reaching out to Simon Richard (j.s.richard@vikes.csuohio.edu) or Gennadiy Averkov (averkov@b-tu.de).
 
 
 ## Tasks
